@@ -1,0 +1,7 @@
+{
+  "name": "ChainLance",
+  "description": "A decentralized freelancing platform for all types of talent. Connect directly with clients using secure blockchain escrow to eliminate high platform fees.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
